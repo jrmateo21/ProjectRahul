@@ -1,0 +1,15 @@
+﻿{
+
+  "username": "rahulshettyacademy",
+  "password": "learning",
+  "username_wrong": "Wrahulshettyacademy",
+  "password_wrong": "Wlearning",
+
+  //array
+  "products": [ "iphone X", "Blackberry" ]
+
+
+
+
+
+}
